@@ -1,11 +1,7 @@
-# smart-city-app
-
-this project describes admin dashboard for smart city management using HTML, CSS and JS
-
-# How to run Project
-
-1-go live on Index.html file
-2-click on login button
-username-admin
-password-admin123
-3-see admin dashboard
+Smart City App – Admin Dashboard
+How to Run the Project:
+Launch the App: Open Index.html in your browser.
+Login: Use the following credentials:
+Username: admin
+Password: admin123
+Access Dashboard: After login, you’ll be redirected to the Admin Dashboard to manage smart city operations.
